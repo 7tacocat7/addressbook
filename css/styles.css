@@ -1,3 +1,7 @@
 #coolWell{
   background-color: skyblue;
 }
+
+.panel-body {
+  display: none;
+}
